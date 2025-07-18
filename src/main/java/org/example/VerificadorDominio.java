@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class VerificadorDominio {
-    private static final String IP_VALIDO = "165.227.255.222";
+    private static final String IP_VALIDO = "";
 
     public static boolean isDominioValido(String dominio) {
         try {
